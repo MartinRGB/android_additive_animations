@@ -1,3 +1,17 @@
+# Futher Reading
+
+[Additive animations: animateWithDuration in iOS 8](http://iosoteric.com/additive-animations-animatewithduration-in-ios-8/)
+
+理解 Additive animation 这种增量动画的意义和原理
+
+[WWDC 2014 - Session 236	- iOS](https://developer.apple.com/videos/play/wwdc2014/236/) (in Safari)
+
+Building Interruptible and Responsive Interactions
+
+[Core Animation基本概念和Additive Animation](http://studentdeng.github.io/blog/2014/06/24/core-animation/)
+
+Additive animation 中文解读
+
 # Android additive animations
 
 Additive animations for Android!
@@ -60,16 +74,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-# Futher Reading
-
-[Additive animations: animateWithDuration in iOS 8](http://iosoteric.com/additive-animations-animatewithduration-in-ios-8/)
-
-理解 Additive animation 这种增量动画的意义和原理
-
-[WWDC 2014 - Session 236	- iOS](https://developer.apple.com/videos/play/wwdc2014/236/) (in Safari)
-
-Building Interruptible and Responsive Interactions
-
-[Core Animation基本概念和Additive Animation](http://studentdeng.github.io/blog/2014/06/24/core-animation/)
-
-Additive animation 中文解读
