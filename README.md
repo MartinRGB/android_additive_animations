@@ -68,6 +68,8 @@ limitations under the License.
 
 [WWDC 2014 - Session 236	- iOS](https://developer.apple.com/videos/play/wwdc2014/236/) (in Safari)
 
+Building Interruptible and Responsive Interactions
+
 [Core Animation基本概念和Additive Animation](http://studentdeng.github.io/blog/2014/06/24/core-animation/)
 
 Additive animation 中文解读
